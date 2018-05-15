@@ -16,6 +16,9 @@ TanChain runtime parameters
   -lockblock=<hash>                        Blocks on branches without this block will be rejected
 
 ```  
+
+[![N|Solid](https://pbs.twimg.com/media/DbQzMY-U8AAdXQI.jpg)](https://safehaven.io)
+
 ### Things being worked on:
   - Legal entities user role
   - API Pipeline and Frontend
