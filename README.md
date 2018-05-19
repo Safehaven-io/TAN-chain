@@ -17,7 +17,7 @@ TanChain runtime parameters
 
 ```  
 
-[![N|Solid](https://pbs.twimg.com/media/DbQzMY-U8AAdXQI.jpg)](https://safehaven.io)
+[![N|Solid](https://safehaven/img/TAN.jpg)](https://safehaven.io)
 
 ### Things being worked on:
   - Legal entities user role
