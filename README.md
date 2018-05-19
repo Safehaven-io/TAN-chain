@@ -24,7 +24,7 @@ TanChain runtime parameters
   - API Pipeline and Frontend
   - Reward mechanisms as described in the Whitepaper
   - Daemon in MultiChain (Enterprise level blockchain system)
-  - Adding tamperproof ID tracking system in the TAN chain for timestamp verified/validated legal entities..
+  - Adding tamperproof ID tracking system in the TAN chain for verified/validated legal entities..
   
   ## Components
   - Web interface built in PHP, HTML, CSS, and Javascript
