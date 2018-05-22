@@ -1,3 +1,5 @@
+[![N|Solid](https://safehaven.io/files/TAN.png)](https://safehaven.io)
+
 TAN-chain
 Trust Alliance Network : Current Daemon and Node in Development
 
@@ -16,8 +18,6 @@ TanChain runtime parameters
   -lockblock=<hash>                        Blocks on branches without this block will be rejected
 
 ```  
-
-[![N|Solid](https://safehaven.io/files/TAN.png)](https://safehaven.io)
 
 ### Things being worked on:
   - Legal entities user role
