@@ -31,7 +31,7 @@ TanChain runtime parameters
   - Network connects to Block explorer and Daemon utilizing restful API calls
   - Daemon build with Mulitchain (Will go live once TAN network & MVP Released
   
-TAN-CHAIN JSON-RPC API commands
+ ## TAN-CHAIN JSON-RPC API commands
 
 <p>In the table below, all optional parameters are denoted in <code>(round brackets)</code> with non-empty default values indicated after the <code>=</code> symbol. You should also consult the list of <a href="/developers/api-errors/">error codes and messages</a>.</p>
 <h5>General utilities</h5>
